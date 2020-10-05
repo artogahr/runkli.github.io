@@ -1,10 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 
 body {
     background-color: black;
     color: white;
+    font-family: 'Fira Code', monospace;
 }
 
 a {
-    color: white;
+    color: #ffffff;
 }
